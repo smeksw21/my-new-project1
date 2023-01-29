@@ -1,0 +1,15 @@
+#include<iostream>
+#include<cstdio>
+#include<cstdlib>
+
+using namespace std;
+
+int main()
+{
+	cout<<"Hello_cpp!\n";
+
+	cout<<"Done! Press any key to end the program : ";
+	getchar();
+
+	return 0;
+}
